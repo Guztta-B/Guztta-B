@@ -3,6 +3,7 @@
 - 🔭 Estou no processo de aprendizagem para atuar como Front-End ou em Back-end
 - 💬 Sempre fuçando para aprender coisas novas
 - 📫 Estudando no IFSP
+- 🧐 Sempre fazendo projetos para desenvolver minhas habilidades.
 <div>
     <a href="https://beacons.ai/Guztta-B">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guztta-B&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br>
