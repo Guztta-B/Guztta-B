@@ -1,16 +1,21 @@
-## Hi there 👋
+## Seja Bem-Vindo sou o Gusttavo
 
-<!--
-**Guztta-B/Guztta-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Estou no processo de aprendizagem para atuar como Front-End ou em Back-end
+- 💬 Sempre fuçando para aprender coisas novas
+- 📫 Estudando no IFSP
+<div>
+    <a href="https://beacons.ai/Guztta-B">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guztta-B&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guztta-B&layout=compact&langs_count=16&theme=dark"/>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br> 
+   <img alt="Guztta-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
+  <img alt="Guztta-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg">
+   <img alt="Guztta-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
+  <img  alt="Guztta-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+ <img alt="Guztta-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img alt="Guztta-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+ <img alt="Guztta-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+             
+</div> 
