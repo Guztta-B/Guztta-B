@@ -1,6 +1,6 @@
 ## Seja Bem-Vindo sou o Gusttavo
 
-- 🔭 Estou no processo de aprendizagem para atuar como Front-End ou em Back-end
+- 🔭 Estou no processo de aprendizagem para atuar como Front-End 
 - 💬 Sempre fuçando para aprender coisas novas
 - 📫 Estudando no IFSP
 - 🧐 Sempre fazendo projetos para desenvolver minhas habilidades.
